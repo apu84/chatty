@@ -1,0 +1,22 @@
+{
+  "name": "chatty",
+  "version": "1.0.0",
+  "description": "Chat app",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apu84/chatty.git"
+  },
+  "keywords": [
+    "Chat"
+  ],
+  "author": "apu.sust@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apu84/chatty/issues"
+  },
+  "homepage": "https://github.com/apu84/chatty#readme"
+}
